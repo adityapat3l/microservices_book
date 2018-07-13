@@ -1,0 +1,12 @@
+*__pycache__
+env
+htmlcov
+__snapshots__
+.dockerignore
+migrations
+.idea
+.ipynb_checkpoints
+.pynb
+celerybeat-schedule
+.pyc
+*.ipynb
